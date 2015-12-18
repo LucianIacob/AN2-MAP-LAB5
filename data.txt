@@ -1,0 +1,5 @@
+11434;Galea Ronaldo;7.0
+11474;Guranda Bogdan;9.6
+11574;Tiperciuc Corvin;9.5
+14742;Trif George;5.2
+17474;Iacob Lucian;6.54
